@@ -1,0 +1,127 @@
+#sidebar-elements {
+    padding-top: 300px;
+}
+#loggedin {
+    font-family: "Avenir Next";
+    color: white !important;
+    margin-bottom: -10px;
+}
+a {
+    font-family: "Avenir Next";
+    color: black;
+    margin-bottom: -10px;
+}
+#content {
+    margin-right: 10%;
+    padding-left: 5%;
+    border: 1px solid blue;
+}
+
+img.logo {
+    float: right;
+    margin-right: -51px;
+    position: relative;
+    z-index: 99 !important;
+}
+
+#header{
+    margin-bottom: -80px;
+}
+
+h1{
+    padding-top: 50px;
+    padding-left: 100 px;
+    font-family: "Avenir Next";
+    
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    color: black;
+}
+
+#home-right{
+    float: right;
+    margin-right: 150px;
+    margin-top: -145px;
+    text-align: right;
+    width: 50%;
+}
+
+#issue-num{
+    font-size: 22pt;
+    font-weight: lighter;
+    margin-bottom:-30px;
+}
+
+#issue-title{
+    font-size: 28pt;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Avenir Next";
+    color: black;
+    width: 55%;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    
+    /* Non standard for WebKit */
+    word-break: break-word;
+    
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+
+img.mainart {
+    float: right;
+    width: 100%;
+    margin-top: -450px;
+}
+
+#date-footer{
+    font-family: "Avenir Next";
+    color: black;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#artist-about{
+    float: right;
+    margin-left:20%;
+    margin-top: -90px;
+    border: 1px solid blue;
+}
+
+img.artist-image{
+    width: 15%;
+}
+
+img.artist-image2{
+    width: 15%;
+}
+
+img.artist-image3{
+    width: 15%;
+}
+
+.columns {
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+    column-gap: 40px;
+    column-width: 100px;
+}
+
+table{
+    color: white;
+    width: 50%;
+    background: black;
+}
